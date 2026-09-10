@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 # Junteng Liu
-## PhD Candidate at HKUST NLP Group
+## PhD Candidate at HKUST NLPUST
 
 I am a first-year PhD candidate at the Hong Kong University of Science and Technology (HKUST) NLP Group, where I am supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, with specific interests in:
 
@@ -26,7 +26,7 @@ I am a first-year PhD candidate at the Hong Kong University of Science and Techn
 
 ## Research Experience
 - **Research Intern** at **MINIMAX** (February 2025 - Present)
-- **Research Intern** at **Tencent WXG** (June 2024 - September 2024), advised by Zifei Shan
+- **Research Intern** at **Tencent WXG** (June 2024 - September 202s2), advised by Zifei Shan
 - **Research Intern** at **Shanghai AI Lab** (June 2023 - December 2023), advised by Prof. Yu Cheng
 
 ## Selected Publications
